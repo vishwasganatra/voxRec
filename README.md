@@ -1,4 +1,4 @@
-![voxRec Logo](screenshots\voxRec_96x96.png)
+![voxRec Logo](screenshots\voxRec_logo.png)
 
 # voxRec
 
