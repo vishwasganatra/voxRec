@@ -53,7 +53,7 @@
 
 </br>
 
-### Download App
+## Download App
 
 The app is available in Google Play Store.
 
