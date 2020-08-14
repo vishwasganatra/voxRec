@@ -53,6 +53,13 @@
 
 </br>
 
+### Download App
+
+The app is available in Google Play Store.
+
+[<img src="screenshots\google_playiconpng.png" width="200"/>][link:google-play]
+
+
 ## How can I support the developer?
 
 - Star GitHub repo :star:
@@ -63,3 +70,5 @@
 - **Vishwas Ganatra** - _Initial Work_ - [vishwasganatra](https://github.com/vishwasganatra/)
 
 Made with :heart:
+
+[link:google-play]: https://play.google.com/store/apps/details?id=com.vbix.vishwas.voxrec
